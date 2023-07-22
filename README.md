@@ -14,7 +14,7 @@ npm install
 cp .env.example .env
 ```
 
-В db-script.js отредактировать название таблицы [https://github.com/kirillmelcin/jetton-usd-indexer/blob/7764249a3c44cfa17288be1b30738c2dac293007/db-script.js#L15](db-script.js 15 строка). Если нужно - изменить названия столбцов. Не забыть в бд создать столбец usd_price.
+В db-script.js отредактировать название таблицы (db-script.js 15 строка). Если нужно - изменить названия столбцов. Не забыть в бд создать столбец usd_price.
 
 Чтобы скрипт срабатывал каждые 15 минут:
 
