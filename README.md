@@ -1,6 +1,10 @@
 # Jetton indexer
 
 ```sh
+git clone https://github.com/kirillmelcin/jetton-usd-indexer.git
+```
+
+```sh
 npm install
 ```
 
